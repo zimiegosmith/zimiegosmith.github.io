@@ -17,5 +17,5 @@ jobs:
       - name: test
         run: script/cibuild
 concurrency: 
-group: "pages"
-cancel-in-progress: false
+  group: "pages"
+  cancel-in-progress: false
