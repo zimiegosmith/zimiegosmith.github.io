@@ -1,2 +1,1 @@
-It was chill
-hi
+During the second week, I learned the project's goal and what milestones we wanted to accomplish during the summer. I got an idea of how to collect data using the NASA tool Giovanni so that we could analyze the data in Python.  
