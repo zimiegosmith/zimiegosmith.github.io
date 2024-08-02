@@ -4,7 +4,7 @@ title: Week 10
 by: Zimiego Smith
 ---
 
-During the eighth week, my group and I made progress on our final report. We could also validate our model and compare our model with other machine-learning results. We were able to create our Elevator pitch for our project. I had the chance to learn more about neural networks specifically artificial and convolutional neural networks. Then I was able to improve my professional writing skills with the help of my mentor. 
+During the tenth week, my group and I presented our final report. We were able to make so much progress and we all were happy with the accomplishments we made for this summer. We also presented a poster of our results at a symposium held at Morgan where we were also very happy about the questions we were asked. This summer program was great and I was able to network with people who I will keep in contact with in the future. 
 
 [Back](./)
 
